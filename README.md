@@ -5,4 +5,5 @@
 - 📫 How to reach me: Instagram only.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: Water is found in the ocean.
+- 🪟 & 🐧user.
 
