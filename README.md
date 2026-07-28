@@ -39,7 +39,7 @@ Godot • Blender • Git • GitHub • Linux • VS Code
 ## 🌐 Links
 
 * 🎮 itch.io: https://eggtree124.itch.io
-* 💼 GitHub: https://github.com/YOUR_USERNAME
+* 💼 GitHub: https://github.com/EggTree124
 
 ---
 
