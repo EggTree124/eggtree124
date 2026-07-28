@@ -26,11 +26,9 @@ Godot • Blender • Git • GitHub • Linux • VS Code
 * 🧪 **Engine Experiments** – Rendering, ECS, physics, and optimisation projects.
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=EggTree124&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EggTree124&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EggTree124&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EggTree124&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=EggTree124&theme=tokyonight)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EggTree124&theme=tokyonight&row=1&column=6)
 ## 🎯 Goals
 
 * Build polished portfolio games
