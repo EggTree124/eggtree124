@@ -6,5 +6,5 @@
 - 🏫 I am currently a student at Binus University, pursuing Game Application and Technology.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: Water is found in the ocean.
-- 🪟 & 🐧user.
+- 🪟 & 🐧(CachyOS) user.
 
