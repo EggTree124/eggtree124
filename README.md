@@ -27,10 +27,10 @@ Godot • Blender • Git • GitHub • Linux • VS Code
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EggTree124&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EggTree124&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=EggTree124&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EggTree124&theme=tokyonight&row=1&column=6)
 ## 🎯 Goals
 
 * Build polished portfolio games
