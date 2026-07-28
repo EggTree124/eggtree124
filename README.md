@@ -1,4 +1,4 @@
-# Hi 👋 I'm Po
+# Hi 👋 I'm Egg
 
 🎮 Game Development Student from Indonesia
 💻 Passionate about Game Programming, Graphics, and Engine Development
